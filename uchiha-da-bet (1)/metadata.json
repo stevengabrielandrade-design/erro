@@ -1,0 +1,6 @@
+{
+  "name": "Uchiha da Bet",
+  "description": "Sistema automatizado de monitoramento de futebol ao vivo, motor de regras HT/Cobertura/ML, alertas push, gestão de banca e comunidade.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
